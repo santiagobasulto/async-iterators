@@ -1,6 +1,11 @@
 {
   "name": "async-iterators",
   "version": "0.0.1",
+  "author": {
+    "name": "Santiago Basulto",
+    "email": "santiago.basulto@gmail.com",
+    "url": "http://www.santiagobasulto.com.ar/"
+  },
   "dependencies": {
     "async": "*",
     "semaphore": "*"
